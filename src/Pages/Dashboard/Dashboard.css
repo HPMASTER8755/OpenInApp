@@ -1,0 +1,300 @@
+.dashboard{
+    background-color: #F8FAFF;
+}
+.sidebarUl{
+    border-radius: 20px;
+    background: linear-gradient(180deg, #4285F4 0%, #3C83F9 100%);
+    color: white ;
+}
+
+.sidebarUl li span{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.dashboard-page {
+    background-color: #F8FAFF;
+}
+.total-rev {
+    border-radius: 20px;
+    box-shadow: 0px 15px 31px 0px rgba(0,0,0,0.1), -74px -96px 0px -100px #fff;
+    border: 2px solid #E0E0E0;
+}
+
+.total-rev-width {
+    width: 50%;
+}
+
+.total-rev-right {
+    width: 60%;
+border-radius: 34px;
+background: #E9F9EB;
+color: #3CC952;
+text-align: center;
+font-family: Figtree;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+text-transform: uppercase;
+}
+.total-rev-content{
+    color: #000;
+    font-family: Montserrat;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.total-rev-amt {
+color: #000;
+font-family: Open Sans;
+font-size: 21px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.top-prdt {
+color: #000;
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.date {
+color:  #858585;
+font-family: Montserrat;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.totl-prdct {
+    padding-left: 30px;
+    padding-right: 30px ;
+}
+
+.prots {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 5px;
+}
+
+.prots-per {
+    color: var(--Secondary-Text, #858585);
+    font-family: Lato;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 5px;
+    padding-top: 3px;
+    padding-left: 15px;
+}
+
+.add {
+    color: #858585;
+font-feature-settings: 'clig' off, 'liga' off;
+/* Paragraph/text-md/[S] */
+font-family: Figtree;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; /* 150% */
+position: relative;
+right: 15px;
+width: 6rem;
+}
+
+.guest {
+color: #000;
+font-family: Lato;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.h-rights {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.search-bar {
+    color: #000;
+    font-size: 14px;
+    padding: 4px 6px;
+}
+.search-bar::placeholder {
+    color: var(--Light-grey, #B0B0B0);
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.board {
+color: #FFF;
+font-family: Montserrat;
+font-size: 36px !important;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.help {
+    color: #FFF;
+font-family: Montserrat;
+font-size: 14px !important;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.circle {
+    width: 30px; /* Adjust the size as needed */
+    height: 30px; /* Same size as width for a perfect circle */
+    border-radius: 50%;
+    /* Other styles like margin, padding, or additional decoration can be added here */
+  }
+
+ .addnewprofile{
+    color: var(--light-bulma, #231F20);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Figtree;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px; /* 160% */
+ }
+
+ .toast-form{
+    width: 50%;
+ }
+
+ /* .name {
+    width: 50%;
+ } */
+ .Basic{
+    color: var(--light-bulma, #231F20);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Figtree;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; /* 150% */
+width: 40%;
+ }
+
+ .inputoast{
+    color: var(--light-trunks, #999CA0);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Figtree;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+border-radius: 8px;
+border: 1px solid var(--light-beerus-beerus, #F2F2F2);
+background: var(--light-gohan, #FFF);
+padding: 5px 15px;
+width:100%;
+ }
+
+ .labelToast{
+    color: var(--light-bulma, #231F20);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Figtree;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+ }
+
+ .Optional{
+    color: var(--light-trunks, #999CA0);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Figtree;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+ }
+
+ .toastButtton{
+    text-align: center;
+font-family: Figtree;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+ }
+
+ .profile {
+    max-width: initial;
+ }
+ 
+ @media (max-width: 640px){
+    .toast-form{
+        width: 80% ;
+     }
+ }
+
+ .showUserDetails{
+    width: 80%;
+ }
+
+ .userdetailsSpan{
+    color: var(--light-bulma, #231F20);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Figtree;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+text-decoration-line: underline;
+width: 100px;
+ }
+
+ .showBar{
+    --tw-translate-x: 0px !important;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+     }
+
+@media  (max-width:640px) {
+    .space-need{
+        margin-top: 40px !important;
+        margin-bottom: 40px !important;
+    }
+    .space-need-2{
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+    }
+}
+
+@media (min-width:641px) and (max-width:940px) {
+    .space-need{
+        margin-top: 40px !important;
+        margin-bottom: 35px !important;
+    }
+    .space-need-2{
+        margin-top: 15px !important;
+        margin-bottom: 0px !important;
+    }
+}
